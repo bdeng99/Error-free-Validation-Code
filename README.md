@@ -19,9 +19,10 @@ b1=h_nodes_40_pr_100_b.one;
 
 b2=h_nodes_40_pr_100_b.two;
 
-to '60', or '80', or '100' to validate the models for different numbers of hidden nodes, 
+to '20', or '60', or '80', or '100' to validate the models for different numbers of hidden nodes, 
 n, of the network architecture, 784-n-10. 
 
+The 784-20-10 model is the only known model which has the fewest parameters to achieve the zero error rate for MNIST.  
 
 Bo Deng
 
